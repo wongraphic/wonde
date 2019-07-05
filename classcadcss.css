@@ -2,9 +2,10 @@
 
 
  body {
-   background-color: azure;
+   background-color: yellow;
+
     text-align: center;
-    padding-left: 100px;
+    padding: 150px;
     padding-top: 30px;
     padding-bottom: 30px;
  }
